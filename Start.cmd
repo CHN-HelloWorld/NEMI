@@ -8,6 +8,8 @@ if %errorlevel% neq 0 (
     exit /b 0
 )
 
+cd /d "%~dp0"
+
 set "LOADER_EXE=%~dp03DMigoto Loader.exe"
 
 if not exist "%LOADER_EXE%" (

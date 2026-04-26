@@ -19,7 +19,7 @@ Please wait for updates from XXMI or other developers for an official release. T
 
 ## Usage
 
-1. Double-click Start.cmd, then launch the game with the official launcher.
+1. Double-click on Start.cmd, 和 then use the official launcher (in DX11 mode) to start the game.
 2. Press F7 to enable or disable de-obfuscation.
 
 ## 中文版本
@@ -42,6 +42,6 @@ NEMI 是一个运行时着色器与图形注入框架。
 
 ## 使用方法
 
-1. 双击 Start.cmd，然后用官方启动器启动游戏。
+1. 双击 Start.cmd，然后用官方启动器（使用DX11模式）启动游戏。
 2. 按 F7 键开启或关闭反虚化。
 
